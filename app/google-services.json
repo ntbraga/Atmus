@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "125625188347",
+    "project_id": "firebase-atmus"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125625188347:android:4c8f4da5e94efdc9",
+        "android_client_info": {
+          "package_name": "atmus.atmus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCVmIU18iWsN16Zo1YJ8_2ISW2MA-8z8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
